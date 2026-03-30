@@ -1,4 +1,3 @@
-package biblioteca;
 public class Aluno extends Pessoa {
   public String numMat;
   public String curso;

@@ -1,4 +1,3 @@
-package biblioteca;
 
 public class Emprestimo {
     public Emprestimo(Livro livro, Pessoa pessoa, String dataDev) {

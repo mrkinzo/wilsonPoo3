@@ -1,4 +1,3 @@
-package biblioteca;
 
 public class Biblioteca {
     private String nome;
